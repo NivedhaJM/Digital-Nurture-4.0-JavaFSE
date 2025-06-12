@@ -1,9 +1,9 @@
-Scenario: 
+##Scenario: 
+You need to ensure that a logging utility class in your application has only one instance throughout the application lifecycle to ensure consistent logging.
 
-    You need to ensure that a logging utility class in your application has only one instance throughout the application lifecycle to ensure consistent logging.
 ---
 
-Steps:
+##Steps:
 
     1. Create a New Java Project:  
        - Create a new Java project named **SingletonPatternExample**.
