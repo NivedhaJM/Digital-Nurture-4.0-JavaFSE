@@ -2,10 +2,7 @@
 
 ## Scenario: 
 You are developing a financial forecasting tool that predicts future values based on past data.
-
 ---
-
-
 ## Steps:
 ### 1. Understand __Recursive Algorithms__:
 -	Explain the concept of __recursion__ and how it can simplify certain problems.
