@@ -4,16 +4,16 @@ Scenario:
 
 Steps:
 
-    1.	Create a New Java Project:
+    1.Create a New Java Project:
           o	Create a new Java project named SingletonPatternExample.
 
-    2.	Define a Singleton Class:
+    2.Define a Singleton Class:
           o	Create a class named Logger that has a private static instance of itself.
           o	Ensure the constructor of Logger is private.
           o	Provide a public static method to get the instance of the Logger class.
 
-    3.	Implement the Singleton Pattern:
+    3.Implement the Singleton Pattern:
           o	Write code to ensure that the Logger class follows the Singleton design pattern.
 
-    4.	Test the Singleton Implementation:
+    4.Test the Singleton Implementation:
           o	Create a test class to verify that only one instance of Logger is created and used across the application.
