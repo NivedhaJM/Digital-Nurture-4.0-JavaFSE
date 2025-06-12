@@ -1,9 +1,8 @@
 # FINANCIAL FORECASTING
-
+---
 ## Scenario: 
 You are developing a financial forecasting tool that predicts future values based on past data.
 
----
 
 ## Steps:
 ### 1. Understand __Recursive Algorithms__:
